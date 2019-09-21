@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/JapanElevation" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

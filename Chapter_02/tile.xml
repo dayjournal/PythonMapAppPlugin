@@ -1,0 +1,30 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles username="" name="MIERUNE Color" password="" authcfg="" zmin="0" referer="" url="https://tile.mierune.co.jp/mierune/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="MIERUNE MONO" password="" authcfg="" zmin="0" referer="" url="https://tile.mierune.co.jp/mierune_mono/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Normal" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/normal/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Gray" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/gray/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Bright" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/bright/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Blue" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/blue/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Warm" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/warm/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="MIERUNE Color+" password="" authcfg="" zmin="0" referer="" url="https://tile.cdn.mierune.co.jp/styles/MIERUNE/{z}/{x}/{y}.png?key=xxxxxxxxxx" zmax="18"/>
+    <xyztiles username="" name="OpenStreetMap" password="" authcfg="" zmin="0" referer="" url="http://tile.openstreetmap.org/{z}/{x}/{y}.png" zmax="19"/>
+    <xyztiles username="" name="日本CS立体図 (5mメッシュあり)" password="" authcfg="" zmin="5" referer="" url="http://kouapp.main.jp/csmap/tile/japan/{z}/{x}/{y}.jpg" zmax="15"/>
+    <xyztiles username="" name="北海道CS立体図 (10mメッシュのみ)" password="" authcfg="" zmin="7" referer="" url="http://kouapp.main.jp/csmap/tile/hokkaido/{z}/{x}/{y}.jpg" zmax="15"/>
+    <xyztiles username="" name="九州沖縄CS立体図 (10mメッシュのみ)" password="" authcfg="" zmin="7" referer="" url="http://kouapp.main.jp/csmap/tile/kyuoki/{z}/{x}/{y}.jpg" zmax="15"/>
+    <xyztiles username="" name="地理院標準地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院淡色地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院白地図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png" zmax="14"/>
+    <xyztiles username="" name="地理院English" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png" zmax="11"/>
+    <xyztiles username="" name="地理院色別標高図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院写真" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg" zmax="18"/>
+    <xyztiles username="" name="国土画像情報 (第一期：1974～1978年撮影)" password="" authcfg="" zmin="10" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="国土画像情報 (第二期：1979～1983年撮影)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo2/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="国土画像情報 (第三期：1984～1986年撮影)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo3/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="国土画像情報 (第四期：1988～1990年撮影)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo4/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="空中写真 (1961～1964年)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort_old10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="空中写真 (1945～1950年)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="簡易空中写真 (2004年～)" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="数値地図5000 (土地利用)" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/lum4bl_capital2005/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="土地利用図" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/lum200k/{z}/{x}/{y}.png" zmax="17"/>
+</qgsXYZTilesConnections>

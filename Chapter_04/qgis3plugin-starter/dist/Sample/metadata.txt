@@ -1,0 +1,25 @@
+
+[general]
+name=Sample
+qgisMinimumVersion=3.0
+description=QGIS Sample Plugin
+version=1.0
+author=Yasunori Kirimoto
+email=contact@day-journal.com
+
+about=QGIS Sample Plugin
+
+tracker=https://github.com/dayjournal/qgis3plugin-starter/issues
+repository=https://github.com/dayjournal/qgis3plugin-starter
+
+tags=vector
+
+homepage=
+category=Vector
+icon=icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False

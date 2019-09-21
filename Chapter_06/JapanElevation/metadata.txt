@@ -1,0 +1,25 @@
+
+[general]
+name=JapanElevation
+qgisMinimumVersion=3.0
+description=JapanElevation
+version=2.0
+author=Yasunori Kirimoto
+email=contact@day-journal.com
+
+about=Display elevation value of specified position on QGIS. Using Elevation API by Geospatial Information Authority of Japan.
+
+tracker=https://github.com/dayjournal/JapanElevation/issues
+repository=https://github.com/dayjournal/JapanElevation
+
+tags=Elevation,Japan
+
+homepage=https://github.com/dayjournal/JapanElevation
+category=Plugins
+icon=icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
